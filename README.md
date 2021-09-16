@@ -1,5 +1,5 @@
 # SmartBrain Face Recognition App
-Final project for ZTM course
+Final project for Zero-To-Mastery course
 
 Technologies used:
 * •	HTML/HTML5
